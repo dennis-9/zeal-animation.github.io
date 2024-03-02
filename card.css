@@ -278,14 +278,14 @@
         }
     }
     
-    @media (max-width: 150401px) {
+    @media (max-width: 750px) {
         .content {
             flex-direction: column-reverse;
-            height: 1000px;
+            height: 750px;
         }
         .swiper {
             height: 900px;
-            width: 55%;
+            width: 50%;
         }
         .btn {
             margin: 10px auto 40px;

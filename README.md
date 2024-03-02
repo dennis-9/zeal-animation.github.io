@@ -1,1 +1,1 @@
-# zeal-craft-innovation-card-animation
+# zeal-web-animation

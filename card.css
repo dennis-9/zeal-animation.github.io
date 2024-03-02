@@ -291,6 +291,10 @@ section {
         flex-direction: column-reverse;
         height: 700px;
     }
+    .swiper {
+        height: 600px;
+        width: 45%;
+    }
     .btn {
         margin: 10px auto 40px;
     }
